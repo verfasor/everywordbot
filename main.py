@@ -3,13 +3,16 @@ import facebook
 import schedule
 import time
 import tweepy
+
 #FB Access Token
 accesstoken = ''
+
 # Twitter Consumer keys and access tokens, used for OAuth
 consumer_key = ''
 consumer_secret = ''
 access_token = ''
 access_token_secret = ''
+
 #choosing a random word from text file.
 k = 1
 filename = 'words.txt'
