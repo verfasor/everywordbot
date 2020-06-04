@@ -8,7 +8,7 @@
 
 **Step 4** — Create a Twitter app and generate tokens & secret keys. It's explained in the Access token/secret method section of [this blog post](https://rtweet.info/articles/auth.html). 
 
-**Step 5** — Download the [English words data-set](https://github.com/dwyl/english-words) of your choice.  Fire up the script with the command `sudo python3 main.py`
+**Step 5** — Download the [English words data-set](https://github.com/dwyl/english-words) of your choice. Replace the words.txt in my repo with the text set of yours. Fire up the script with the command `sudo python3 main.py`
 
 Also read:
 https://github.com/aparrish/everywordbot
