@@ -6,7 +6,7 @@
 
 **Step 3** — Create a Facebook page and generate an Access Token from http://maxbots.ddns.net/token/. Paste the token to the accesstoken field in the script.
 
-**Step 4** — Create a Twitter app and generate tokens & secret keys. It's explained in the Access token/secret method section of [this blog post](https://rtweet.info/articles/auth.html). 
+**Step 4** — Create a Twitter app and generate tokens & secret keys. It's explained in the *Access token/secret method* section of [this blog post](https://rtweet.info/articles/auth.html). 
 
 **Step 5** — Download the [English words data-set](https://github.com/dwyl/english-words) of your choice. Replace the words.txt in my repo with the text set of yours. Fire up the script with the command `sudo python3 main.py`
 
