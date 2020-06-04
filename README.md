@@ -12,3 +12,13 @@
 
 Also read:
 https://github.com/aparrish/everywordbot
+
+## Get Creative
+
+Look at https://www.facebook.com/loveeveryword/ for example.
+
+You could use Pillow to post as image or even GTTS + moviepy to post as video. 
+
+## License
+
+Every Word Bot is provided under the MIT license. See LICENSE.TXT for more information.
