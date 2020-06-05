@@ -17,9 +17,9 @@ https://github.com/aparrish/everywordbot
 
 ## Get Creative
 
-Look at https://www.facebook.com/loveeveryword/ for example.
+Look at https://www.facebook.com/loveeveryword/ & https://www.facebook.com/bottubebot for example.
 
-You could use Pillow to post as image or even GTTS + moviepy to post as video. 
+You could use Pillow to post images or even GTTS + moviepy combo to post videos. 
 
 ## License
 
