@@ -10,6 +10,8 @@
 
 **Step 5** — Download the [English words data-set](https://github.com/dwyl/english-words) of your choice. Replace the words.txt in my repo with the text set of yours. Fire up the script with the command `sudo python3 main.py`
 
+You can [tmux](https://github.com/tmux/tmux/wiki) to manage the sessions. 
+
 Also read:
 https://github.com/aparrish/everywordbot
 
