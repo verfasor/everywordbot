@@ -1,6 +1,6 @@
 # Every Word Bot
 
-**Step 1** — You need a VPS to host and run this script. I religiously recommend [DigitalOcean droplet](https://migftw.com/DO/). I think you'll get a 50USD or 100USD credit on DigitalOcean when you sign-up with the link I shared. You could check Amazon AWS or Google Cloud Platform also. Select Debian, Ubuntu, or CentOS while you're creating a droplet or instance.
+**Step 1** — You need a VPS to host and run this script. I religiously recommend [DigitalOcean droplet](https://verfasor.com/DO/). I think you'll get a 50USD or 100USD credit on DigitalOcean when you sign-up with the link I shared. You could check Amazon AWS or Google Cloud Platform also. Select Debian, Ubuntu, or CentOS while you're creating a droplet or instance.
 
 **Step 2** — [Install Python 3](https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/) followed by the modules *facebook*, *tweepy*, and *schedule*. Installing modules will get fairly easy once you get the hang of it. (`pip3 install modulename`)
 
@@ -17,7 +17,7 @@ https://github.com/aparrish/everywordbot
 
 ## Get Creative
 
-Look at https://www.facebook.com/loveeveryword/ & https://www.facebook.com/bottubebot for example.
+Look at https://www.facebook.com/loveeveryword/ & https://www.facebook.com/bottubebot for example (archived).
 
 You could use Pillow to post images or even GTTS + moviepy combo to post videos. 
 
